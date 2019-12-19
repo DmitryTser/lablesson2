@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">multiactivity</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="hello_my_dear_friend">Hello my dear friend</string>
+    <string name="start_new_activity">Start new activity!</string>
+    <string name="textview">TextView</string>
+</resources>
